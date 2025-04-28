@@ -248,7 +248,7 @@ def recommend_visualizations(df: pd.DataFrame) -> str:
     return recommendations
 
 # Main app layout
-st.title("MCP Data Cleaning & EDA with LLM Assistant")
+st.title("Data Cleaning & EDA with LLM Assistant")
 
 # Check if data is loaded
 if st.session_state.df is not None:
