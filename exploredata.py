@@ -80,7 +80,7 @@ if 'data_insights' not in st.session_state:
 
 # Sidebar configuration
 with st.sidebar:
-    st.title("MCP Data Server")
+    st.title("Data Server")
     
     # Data upload section
     st.header("Upload Data")
