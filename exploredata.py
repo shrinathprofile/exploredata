@@ -10,7 +10,7 @@ from openai import OpenAI
 
 # Set page configuration
 st.set_page_config(
-    page_title="MCP Data Cleaning & EDA",
+    page_title="Data Cleaning & EDA",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
